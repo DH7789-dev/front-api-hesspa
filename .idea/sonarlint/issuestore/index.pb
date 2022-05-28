@@ -1,9 +1,6 @@
 
 <
 src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
-:
-
-src/App.js,1/e/1e43fa63aecd2127be034b3fb9d4caa172275714
 A
 public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
 <
@@ -16,8 +13,6 @@ C
 src/pages/Profil.js,5/c/5cb845e6aec83e0b9b88880fde98bc3aa7d6b614
 A
 src/pages/Pets.js,e/3/e3ea5090b9429788166275deec9745ac4cdf35ca
-B
-src/pages/Login.js,c/8/c896236ba4a30f2d4d14daebfc43b8b237ff6821
 D
 src/pages/Contact.js,2/c/2c9426d76adae3c4f534a010511be302b42ffc8c
 P

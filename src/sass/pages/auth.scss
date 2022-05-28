@@ -3,24 +3,30 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  padding: 30px;
   .right-part-auth{
-    width: 49%;
+    width: calc(49% - 100px);
     margin-right: 20px;
     .right-img-auth{
       width: 100%;
-      height: 100vh;
+      height: 270px;
     }
   }
+  .br{
+    height:500px;
+    width: 1px;
+    background-color: #1D266E;
+  }
   .left-part-auth{
-    width: 51%;
+    width: calc(49% - 100px);
     display:flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
+    padding: 20px ;
+    margin-right: 40px;
     .title-auth-left{
       font-size: 32px;
       line-height: 38px;
-      color: #fff;
       margin-bottom: 20px;
     }
     .auth-from{
@@ -28,24 +34,42 @@
       flex-direction: column;
       align-items: center;
       width: 100%;
-      .form-input{
-        border-radius: 5px;
-        padding: 20px;
+      .title-subscrible{
         font-size: 18px;
         line-height: 21px;
-        height: 50px;
-        width: 80%;
         margin-bottom: 20px;
-        border: 1px solid #C4C4C4;
-        &:focus{
-          outline: 1px solid #FFF;
+        text-align: left;
+      }
+      .container-form{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        .title-form{
+          font-size:24px;
+          line-height: 29px;
+          font-weight: 600;
+          margin-bottom: 10px;
+        }
+
+        .form-input{
+          border-radius: 5px;
+          padding: 20px;
+          font-size: 18px;
+          line-height: 21px;
+          height: 50px;
+          width: 100%;
+          margin-bottom: 20px;
+          border: 1px solid #FF7143;
+          &:focus{
+            outline: 1px solid #FF7143;
+          }
         }
       }
     }
   }
   .button-send{
     padding: 10px;
-    background: #248C45;
+    background: #FF7143;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -56,12 +80,14 @@
     position: relative;
     font-size: 18px;
     line-height: 21px;
+    color:#FFF;
     right: 0;
     cursor: pointer;
+    transition: all .2s;
     &:hover {
       background: transparent;
-      border: 1px solid #248C45;
-      color: #248C45;
+      border: 1px solid #FF7143;
+      color: #FF7143;
     }
   }
 }
