@@ -11,9 +11,9 @@ const Contact = () => {
                 <img className="right-img-contact" src="/assets/images/image-contact.svg" alt="login"/>
             </div>
             <div className="left-part-contact">
-                <div className="title-contact-left">Login</div>
+                <div className="title-contact-left">Contact</div>
                 <form action="" className="contact-from">
-                    <div className="container-form">
+                    <div className="container-form-title">
                         <div className="container-form">
                             <div className="title-form">Nom</div>
                             <input {...register("lastName", { required: "Please enter your last name." })} type="text" placeholder="nom" className="form-input"/>
@@ -28,11 +28,11 @@ const Contact = () => {
                         <input {...register("mail", { required: "Please enter your  name." })} type="text" placeholder="email" className="form-input"/>
                     </div>
                     <div className="container-form">
-                        <div className="title-form">message</div>
-                        <textarea {...register("message", { required: "Please enter your  password." })}  type="password" placeholder="password" className="form-input"/>
+                        <div className="title-form">Message</div>
+                        <textarea {...register("message", { required: "Please enter your  password." })}  placeholder="Message" className="form-input message"/>
                     </div>
+                    <div className="button-send">Envoyer</div>
                 </form>
-                <div className="button-send">Envoyer</div>
             </div>
         </div>
     );

@@ -1,0 +1,32 @@
+.view--pets{
+  display: flex;
+  flex-direction: column;
+  padding: 30px 50px;
+  .title-header{
+    font-size: 36px;
+    line-height: 43px;
+    font-weight: bold;
+    position: relative;
+    left: 50%;
+    margin-bottom: 50px;
+  }
+  .container-pets{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    .pets-card{
+      width: calc(30% - 24px);
+      margin-right: 32px;
+      margin-bottom: 27px;
+      transition: all .3s;
+      cursor: pointer;
+      &:hover{
+        transform: scale(1.1);
+      }
+      &:nth-child(3n + 3){
+        margin-right: 32px;
+      }
+    }
+  }
+}

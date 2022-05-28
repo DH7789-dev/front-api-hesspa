@@ -6,16 +6,16 @@ const CardPets = ({link = "/assets/images/image-home.png", data = {}}) => {
             <img src={link} alt="image pet" className="header-card"/>
             <div className="body-card">
                 <div className="info-container">
-                    <div className="title-info"> Nom: </div>
-                    <div className="title-info"> Nom: </div>
+                    <div className="title-info"> Nom: <span>cc</span> </div>
+                    <div className="title-info"> Nom: <span>cc</span> </div>
                 </div>
                 <div className="info-container">
-                    <div className="title-info"> Nom: </div>
-                    <div className="title-info"> Nom: </div>
+                    <div className="title-info"> Nom: <span>cc</span> </div>
+                    <div className="title-info"> Nom: <span>cc</span> </div>
                 </div>
                 <div className="info-container">
-                    <div className="title-info"> Nom: </div>
-                    <div className="title-info"> Nom: </div>
+                    <div className="title-info"> Nom: <span>cc</span> </div>
+                    <div className="title-info"> Nom: <span>cc</span> </div>
                 </div>
             </div>
         </div>

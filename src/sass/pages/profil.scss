@@ -1,5 +1,77 @@
-.composant-modal{
+.view--profile{
   display: flex;
   flex-direction: column;
-  color: black;
+  padding: 30px 50px;
+  .profil-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .image-profile{
+      width:500px;
+      height: 226px;
+      margin-right: 30px;
+    }
+    .profile-title{
+      font-weight: 600;
+      font-size: 64px;
+      line-height: 77px;
+    }
+  }
+  .form-body{
+    padding: 0 100px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    .container-body{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      .container-form{
+        width: calc(50% - 30px);
+        display: flex;
+        flex-direction: column;
+        .title-form{
+          font-weight: 600;
+          font-size: 24px;
+          line-height: 29px;
+          margin-bottom: 10px;
+        }
+        .form-input{
+          border-radius: 5px;
+          padding: 20px;
+          font-size: 18px;
+          line-height: 21px;
+          height: 50px;
+          width: 100%;
+          margin-bottom: 20px;
+          border: 1px solid #FF7143;
+          &:focus {
+            outline: 1px solid #FF7143;
+          }
+        }
+      }
+    }
+    .button-send{
+      position: relative;
+      left: 50%;
+      transform:translateX(-50%);
+      margin-top: 40px;
+      border: 1px solid #FF7143;
+      color: #FF7143;
+      text-align: center;
+      cursor: pointer;
+      font-size: 18px;
+      line-height: 21px;
+      padding: 20px 0;
+      width: 174px;
+      border-radius: 20px;
+      transition: all .3s;
+      &:hover{
+        background-color: #FF7143;
+        color: #FFFFFF;
+      }
+    }
+  }
+
 }

@@ -9,7 +9,8 @@
 @import "./layout/main-header.scss";
 
 // Components
-@import "./components/layout/nav-header.scss";
+@import "./components/pages/cardpets";
+@import "./components/pages/petsdescription";
 
 
 // pages
@@ -17,6 +18,8 @@
 @import "./pages/auth.scss";
 @import "./pages/profil.scss";
 @import "./pages/error/notfound";
+@import "./pages/contact";
+@import "./pages/pets";
 
 
 

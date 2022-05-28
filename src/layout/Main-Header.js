@@ -10,7 +10,11 @@ const MainHeader = () => {
         <>
 
             <div className="main-header">
-                <img src="/assets/logo/logo.png" alt="logo" className="logo-header"/>
+                <Link to="/" style={{textDecoration:'none', color:'#1D266E'}}>
+                    <div className="link">
+                        <img src="/assets/logo/logo.png" alt="logo" className="logo-header"/>
+                    </div>
+                </Link>
                 <div className="link-container">
                     <Link to="/" style={{textDecoration:'none', color:'#1D266E'}}>
                         <div className="link">
