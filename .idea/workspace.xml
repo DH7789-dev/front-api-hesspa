@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ad4fd1e-8875-4d6a-93db-a4a42f907367" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/pages/PetsDescription.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f88e17193d91c101c7e0bd70b2fc4123066b1147" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/CardPets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/CardPets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/Main-Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Main-Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Pets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Pets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Profil.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profil.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/layout/modal-header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/layout/main-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/layout/main-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/utils/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/utils/_settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/pages/home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +62,7 @@
       <workItem from="1653340929134" duration="894000" />
       <workItem from="1653510497789" duration="4574000" />
       <workItem from="1653643850543" duration="2553000" />
-      <workItem from="1653747511023" duration="1996000" />
+      <workItem from="1653747511023" duration="2658000" />
     </task>
     <servers />
   </component>

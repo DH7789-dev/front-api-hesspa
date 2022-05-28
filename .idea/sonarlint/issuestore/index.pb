@@ -16,8 +16,6 @@ C
 src/pages/Profil.js,5/c/5cb845e6aec83e0b9b88880fde98bc3aa7d6b614
 A
 src/pages/Pets.js,e/3/e3ea5090b9429788166275deec9745ac4cdf35ca
-A
-src/pages/Home.js,f/8/f88e17193d91c101c7e0bd70b2fc4123066b1147
 B
 src/pages/Login.js,c/8/c896236ba4a30f2d4d14daebfc43b8b237ff6821
 D
