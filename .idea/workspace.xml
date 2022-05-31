@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ad4fd1e-8875-4d6a-93db-a4a42f907367" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sass/components/pages/petsdescription.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/pages/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/pages/pets.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c4ddf6d3b9c97203287d0e2306398defa1b339e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c9426d76adae3c4f534a010511be302b42ffc8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cb845e6aec83e0b9b88880fde98bc3aa7d6b614" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b529037b5a627665ff0a6a1c5ec253b01ee422f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3ea5090b9429788166275deec9745ac4cdf35ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/error/NotFound.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/error/NotFound.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/nav-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/CardPets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/CardPets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/PetsDescription.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/PetsDescription.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/Main-Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Main-Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Pets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Pets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Profil.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/layout/nav-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/pages/cardpets.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/pages/profil.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/pages/profil.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29LoExrxIIK153ybcoumf2F6ay8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sass/components/pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ad4fd1e-8875-4d6a-93db-a4a42f907367" name="Changes" comment="" />
+      <created>1652901618690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652901618690</updated>
+      <workItem from="1652901620524" duration="2731000" />
+      <workItem from="1652965722653" duration="1209000" />
+      <workItem from="1653330146104" duration="1487000" />
+      <workItem from="1653340929134" duration="894000" />
+      <workItem from="1653510497789" duration="4574000" />
+      <workItem from="1653643850543" duration="2553000" />
+      <workItem from="1653747511023" duration="9320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
